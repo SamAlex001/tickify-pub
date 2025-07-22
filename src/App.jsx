@@ -53,9 +53,9 @@ function App() {
               <CheckSquare className="w-8 h-8 text-white" />
             </div>
             <h1 className="text-4xl font-bold bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
-              TaskFlow
+              Tickify
             </h1>
-            <Sparkles className="w-6 h-6 text-purple-500" />
+            {/* <Sparkles className="w-6 h-6 text-purple-500" /> */}
           </div>
           <p className="text-gray-600 text-lg">
             Organize your life, one task at a time
