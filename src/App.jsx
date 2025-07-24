@@ -141,7 +141,7 @@ function App() {
         {/* Footer */}
         <footer className="text-center mt-12 pt-8 border-t border-gray-200">
           <p className="text-gray-500 text-sm">
-            TaskFlow - Built with accessibility and productivity in mind
+            Tickify - Built with accessibility and productivity in mind
           </p>
         </footer>
       </div>
