@@ -6,13 +6,13 @@ Tickify is a modern, accessible, and productivity-focused task management app bu
 
 ## Features
 
-- Add, complete, and delete tasks
-- Set priorities (High, Medium, Low)
-- Assign tasks to days of the week
-- Set due dates and track overdue tasks
-- Filter and sort tasks by priority, day, due date, and title
-- Persistent storage using localStorage
-- Responsive and accessible UI
+- ``Add, Complete, and Delete Tasks`` – Create new tasks, mark them as done, or remove them anytime.
+- ``Set Priorities`` – Categorize tasks as High, Medium, or Low to focus on what matters most.
+- ``Assign Tasks to Days`` – Plan your week by assigning tasks to specific days.
+- ``Set Due Dates`` – Stay on schedule and automatically track overdue tasks.
+- ``Filter & Sort`` – Quickly organize tasks by priority, day, due date, or title.
+- ``Persistent Storage`` – All tasks are saved in your browser’s localStorage, so your progress is never lost.
+- ``Responsive & Accessible`` – Use Tickify seamlessly across devices with a clean, user-friendly interface.
 
 ### Upcoming Features
 - ``Smart Task Management``: Organize tasks with due dates, priorities, subtasks, tags, attachments, and recurring schedules.
@@ -22,7 +22,7 @@ Tickify is a modern, accessible, and productivity-focused task management app bu
 - ``Insights & Analytics``: Monitor task completion, visualize progress, track productivity trends, and optionally log time spent.
 - ``Seamless Integration``: Sync tasks with personal calendars and export your data as CSV or PDF.
 
-## Getting Started
+## Installation
 
 ### Prerequisites
 
@@ -69,6 +69,8 @@ npm run preview
 yarn preview
 ```
 
+---
+
 ## Project Structure
 
 ```
@@ -88,6 +90,8 @@ tickify/
 └── ...
 ```
 
+---
+
 ## Technologies Used
 
 - React
@@ -95,6 +99,17 @@ tickify/
 - Tailwind CSS
 - Lucide Icons
 - ESLint
+
+---
+
+## Usage
+- ``Add a Task``: Use the "Add New Task" form at the top of the page to enter a task title, set a due date, assign a day, and choose a priority. Click "Add Task" to create it.
+- ``Complete a Task``: Click the round checkbox on the left of a task card to mark it as complete or incomplete.
+- ``Delete a Task``: Click the trash icon on the right of a task card to delete it.
+- ``Set Priority & Due Date``: When adding a task, select the priority (High, Medium, Low) and optionally set a due date.
+- ``Assign to Day``: When adding a task, select a day of the week to assign the task.
+- ``Filter & Sort Tasks``: Use the "Filter & Sort Tasks" bar to filter by priority, assigned day, or sort by creation date, due date, priority, or title.
+- ``View Task Stats``: The dashboard at the top shows total, completed, pending, high-priority, and overdue tasks, along with a progress bar.
 
 ## Accessibility
 
