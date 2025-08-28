@@ -2,7 +2,7 @@
 
 Tickify is a modern, accessible, and productivity-focused task management app built with React, Vite, and Tailwind CSS. Organize your life, one task at a time!
 
-> Empower yourself and others to achieve more—Tickify makes task management simple, effective, and inspiring for everyone!
+> Empower yourself to achieve more—Tickify makes task management simple, effective, and inspiring for everyone!
 
 ## Features
 
