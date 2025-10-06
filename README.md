@@ -33,7 +33,7 @@ Tickify is a modern, accessible, and productivity-focused task management app bu
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/SamAlex001/tickify.git
+   git clone https://github.com/SamAlex001/tickify-pub.git
    cd tickify
    ```
 
