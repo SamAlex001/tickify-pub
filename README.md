@@ -34,7 +34,7 @@ Tickify is a modern, accessible, and productivity-focused task management app bu
 1. **Clone the repository:**
    ```sh
    git clone https://github.com/SamAlex001/tickify-pub.git
-   cd tickify
+   cd tickify-pub
    ```
 
 2. **Install dependencies:**
@@ -74,7 +74,7 @@ yarn preview
 ## Project Structure
 
 ```
-tickify/
+tickify-pub/
 ├── public/
 ├── src/
 │   ├── assets/
